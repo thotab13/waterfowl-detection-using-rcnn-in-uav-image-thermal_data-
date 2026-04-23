@@ -1,11 +1,5 @@
-# Computer Vision – Object Detection Assignment
-# Waterfowl Detection in UAV Thermal Imagery using Faster R-CNN
 
-**Submitted by:**
-**Submitted by:**
-* Thota Bhuvana Chandra (10001026)
-* Rachitha Chandra Bhanu (10000726)
-* Sai Surya Mada (10000982)
+# Waterfowl Detection in UAV Thermal Imagery using Faster R-CNN
 
 ---
 
